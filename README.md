@@ -1,2 +1,5 @@
 # chat
-Issues contain public messages I want to send to other people.
+
+Public chats.
+
+Feel free to open an issue if you have anything to say to me.
